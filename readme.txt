@@ -1,2 +1,2 @@
-doudouGit is a distributed  version control system.
-doudouGit is free software
+yupengdoudouGit is a distributed  version control system.
+yupengdoudouGit is free software
